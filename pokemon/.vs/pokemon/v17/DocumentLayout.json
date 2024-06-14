@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|c:\\users\\sam\\desktop\\prefinal\\pokemon\\pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|c:\\users\\sam\\desktop\\prefinal\\pokemon\\pokemon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|c:\\users\\sam\\desktop\\prefinal\\pokemon\\pokemon\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|c:\\users\\sam\\desktop\\prefinal\\pokemon\\pokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B155D2-3563-40A9-874C-BF1DAE3D5A27}|pokemon\\pokemon.csproj|solutionrelative:pokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "pokemon\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "pokemon\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T13:44:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "pokemon\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "pokemon\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T13:43:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "pokemon\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "pokemon\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowGgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:39:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "pokemon\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Sam\\Desktop\\prefinal\\pokemon\\pokemon\\Models\\Pokemon.cs",
+              "RelativeToolTip": "pokemon\\Models\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:47:12.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
